@@ -1,7 +1,3 @@
-console.log('client side app loaded..')
-
-
-
 const weateherForm = document.querySelector('form')
 
 const search = document.querySelector('input')
